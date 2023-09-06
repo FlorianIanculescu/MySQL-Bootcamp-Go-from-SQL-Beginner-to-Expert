@@ -1,0 +1,5 @@
+SHOW databases;
+
+CREATE DATABASE pet_shop;
+
+SHOW DATABASES;
