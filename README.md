@@ -53,6 +53,10 @@ The course is divided into several modules, each focusing on a specific topic. T
 - Creating triggers to automate actions based on database events
 - Designing and using views to simplify complex queries
 
+## Certification
+
+Certificate of Completion: [MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert](https://www.udemy.com/certificate/UC-f148039f-e68f-418e-a315-b980d0d42d23/)
+
 ## Getting Started
 
 To download the repository to your local machine, you need to clone it using:
