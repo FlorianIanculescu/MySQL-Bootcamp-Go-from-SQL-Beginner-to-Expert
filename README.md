@@ -44,12 +44,14 @@ The course is divided into several modules, each focusing on a specific topic. T
     
 ## What I learned
 
-- Create my own database or interact with existing databases
-- Write complex SQL join queries across multiple tables
-- Master MySQL 8 Window Functions (LEAD, LAG, RANK, etc.)
-- Model real-world data and generate reports using SQL
-- Answer company performance or sales questions using data
-- Learns the ins and out of MySQL 8.x syntax
+- Understanding what databases are and their role in data management
+- Creating and managing databases and tables in MySQL
+- Understanding different data types supported by MySQL, such as integers, strings, dates, and more
+- Learning SQL fundamentals, including SELECT statements, filtering data, and sorting results
+- How to add, modify, and remove data records from MySQL tables
+- Writing more advanced SQL queries, including joins, subqueries, and aggregation functions
+- Creating triggers to automate actions based on database events
+- Designing and using views to simplify complex queries
 
 ## Getting Started
 
