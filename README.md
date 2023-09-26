@@ -11,7 +11,8 @@ In this repository, you will find detailed notes from each module or session of 
 
 - [Introduction](#introduction)
 - [Course Content](#course-content)
-- [What I learned](#course-content)
+- [What I learned](#what-i-learned)
+- [Certification](#certification)
 - [Getting Started](#getting-started)
   
 ## Introduction
